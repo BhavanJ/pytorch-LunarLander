@@ -17,4 +17,4 @@ Instructions:
      3.2) python reinforce.py
      3.3) python a2c.py
 
-In collobration with https://github.com/tejaskhot
+This is in collaboration with https://github.com/tejaskhot
